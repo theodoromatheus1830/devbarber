@@ -1,2 +1,6 @@
-# devbarber
-Aplicativo DevBarber -  App de Agendamento para Barbeiros em React Native - Live do Professor Bonieky Lacerda
+# DevBarber APP
+
+
+## Description
+
+DevBarber App - Scheduling App for Barbers in React Native - Professor Bonieky Lacerda's Live
